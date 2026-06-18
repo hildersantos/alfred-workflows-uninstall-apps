@@ -1,6 +1,6 @@
 ## Uninstall apps
 
-A simple workflow for uninstalling apps in your macOS.
+A simple workflow for uninstalling apps in your macOS using [Alfred](https://www.alfredapp.com/).
 
 ### Usage
 
